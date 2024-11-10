@@ -1,0 +1,28 @@
+.container-root {
+  text-align: center;
+ margin-top: 3rem;
+}
+
+.heading {
+  font-size: 3rem;
+  color: rgb(3, 32, 105);
+}
+
+.text {
+  color: rgb(7, 12, 69);
+  font-style: italic;
+}
+
+.btn{
+    margin: 1rem;
+}
+
+input{
+    border-radius: .5rem;
+    border: .5px solid rgb(3, 32, 105);
+    width: 20rem;
+}
+
+.error{
+    color: red;
+}
